@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1efd12d6-2231-449d-bb89-c85bf667f567" name="Default Changelist" comment="" />
+    <list default="true" id="1efd12d6-2231-449d-bb89-c85bf667f567" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/inventory/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/inventory/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fx3NGQRFyA4UHLVS1rzV6PQa2k" />
   <component name="ProjectViewState">
@@ -14,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/React-DjangoProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React-DjangoProjects/MovieRaterApi" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.manage">
@@ -81,9 +91,10 @@
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="1723" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/51.317.1229.693/1280.0.1920.1080@1280.0.1920.1080" timestamp="1597146795977" />
-    <state x="536" y="508" width="416" height="311" key="FileChooserDialogImpl" timestamp="1597168606836">
-      <screen x="51" y="317" width="1229" height="693" />
+    <state x="2038" y="293" width="416" height="311" key="FileChooserDialogImpl" timestamp="1605176661270">
+      <screen x="1280" y="0" width="1920" height="1080" />
     </state>
+    <state x="2038" y="293" key="FileChooserDialogImpl/1280.0.1920.1080/0.146.1280.720@1280.0.1920.1080" timestamp="1605176661270" />
     <state x="2038" y="297" width="416" height="484" key="FileChooserDialogImpl/51.317.1229.693/1280.0.1920.1080@1280.0.1920.1080" timestamp="1597146079345" />
     <state x="536" y="508" width="416" height="311" key="FileChooserDialogImpl/51.317.1229.693/1280.0.1920.1080@51.317.1229.693" timestamp="1597168606836" />
     <state width="1206" height="159" key="GridCell.Tab.0.bottom" timestamp="1597173268747">

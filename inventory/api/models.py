@@ -12,4 +12,4 @@ class Drone(models.Model):
     brand = models.CharField(max_length=32)
     serial_number = models.CharField(max_length=32, blank=True)
     supported_cameras = models.ManyToManyField(Camera, related_name='supported_cameras', blank=True)
-
+    description = models.CharField(max_length=100, blank=True)
